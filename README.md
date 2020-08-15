@@ -1,4 +1,4 @@
-<p align="center">Matador de Monstros</p>
+<h1 align="center">Matador de Monstros</h1>
 ## Test your might! :muscle:
 
 <p>Matador de monstros é um simples projeto utilizando Vuejs em seus princípios, nada muito complexo. Este projeto me trouxe uma nostalgia dos meus tempos de moleque quando jogava muito, mas muuuito Mortal Kombat no queridíssimo Super Nintendo.</p>
